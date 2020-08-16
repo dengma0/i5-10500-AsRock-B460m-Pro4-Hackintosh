@@ -13,6 +13,14 @@ Hackintosh
 - Bluetooth
 - DisplayPort + HDMI simultaneously
 - All USB ports (Full 3.0 + 2.0 + type C)
+
+# Result
+
+![RUNOOB 关于本机](./images/aboutMac.png)
+![RUNOOB 节能](./images/battery.png)
+![RUNOOB 蓝牙](./images/bluetooth.png)
+![RUNOOB 显示器](./images/display.png)
+![RUNOOB USB](./images/usb.png)
 # Note
 
 The file config.plist. Please change MLB, SystemSerialNumber, SystemUUID into your code
