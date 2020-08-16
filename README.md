@@ -2,6 +2,7 @@
 Hackintosh
 
 *可以支持Big sur的安装，但是需要仿冒CPUID，否则会卡EB*
+
 *The EFI can install Big sur,but it needs fake intel CPUID,otherwise it will stuck on EB*
 ```
 <key>Emulate</key>
