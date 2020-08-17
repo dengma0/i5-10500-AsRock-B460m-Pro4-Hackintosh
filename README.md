@@ -36,7 +36,7 @@ Hackintosh
 ![RUNOOB USB](./images/usb.png)
 # Note
 
-The file config.plist. Please change MLB, SystemSerialNumber, SystemUUID into your code
+The file config.plist. Please change MLB, SystemSerialNumber, SystemUUID , ROM into your code
 
 ```
 <dict>
@@ -45,7 +45,7 @@ The file config.plist. Please change MLB, SystemSerialNumber, SystemUUID into yo
     <key>MLB</key>
     <string>xxxxxxxxxxxxxxx</string>
     <key>ROM</key>
-    <data>ESIzRFVm</data>
+    <data>xxxxxxxx</data>
     <key>SpoofVendor</key>
     <true/>
     <key>SystemProductName</key>
