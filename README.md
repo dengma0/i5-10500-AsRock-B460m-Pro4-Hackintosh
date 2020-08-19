@@ -1,17 +1,6 @@
 # i5-10500-AsRock-B460m-Pro4-Hackintosh
 Hackintosh
 
-*可以支持Big sur的安装，但是需要仿冒CPUID，否则会卡EB*
-
-*The EFI can install Big sur,but it needs fake intel CPUID,otherwise it will stuck on EB*
-```
-<key>Emulate</key>
-<dict>
-    <key>Cpuid1Data</key>
-    <data>6gYJAAAAAAAAAAAAAAAAAA==</data>
-    <key>Cpuid1Mask</key>
-    <data>/////wAAAAAAAAAAAAAAAA==</data>
-</dict>
 ```
 # Info PC
 * matherboard: AsRock B460m Pro4
@@ -25,7 +14,7 @@ Hackintosh
 - Ethernet
 - Bluetooth
 - DisplayPort + HDMI simultaneously
-- All USB ports (Full 3.0 + 2.0 + type C)
+- All USB ports
 
 # Result
 
